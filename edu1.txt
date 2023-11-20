@@ -1,2 +1,7 @@
 changed new thing
+<<<<<<< HEAD
 Add commit 5
+=======
+Add commit 5
+1 changed
+>>>>>>> 5082ea5 (1 added)
