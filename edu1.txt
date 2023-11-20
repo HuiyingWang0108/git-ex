@@ -6,3 +6,4 @@ Add commit 5
 1 changed
 >>>>>>> 5082ea5 (1 added)
 new
+1 + 1 = 2
