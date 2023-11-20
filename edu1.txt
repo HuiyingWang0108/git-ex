@@ -7,3 +7,4 @@ Add commit 5
 >>>>>>> 5082ea5 (1 added)
 new
 1 + 1 = 2
+2 + 2 = 4
